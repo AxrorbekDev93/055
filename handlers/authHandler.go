@@ -3,8 +3,8 @@ package handlers
 import (
 	"database/sql"
 	"fmt"
-	"go-api/db"
-	"go-api/utils"
+	"github.com/AxrorbekDev93/0222/db"
+	"github.com/AxrorbekDev93/0222/utils"
 
 	"github.com/gofiber/fiber/v2"
 	"golang.org/x/crypto/bcrypt"
