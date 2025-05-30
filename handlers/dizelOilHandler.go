@@ -2,7 +2,7 @@
 package handlers
 
 import (
-	"go-api/db"
+	"github.com/AxrorbekDev93/055/db"
 	"strconv"
 
 	"github.com/gofiber/fiber/v2"
