@@ -1,6 +1,6 @@
-module go-api
+module github.com/AxrorbekDev93/055
 
-go 1.24.3
+go 1.24.0
 
 require (
 	github.com/go-sql-driver/mysql v1.9.2
