@@ -2,7 +2,7 @@ package handlers
 
 import (
 	"database/sql"
-	"go-api/db"
+	"github.com/AxrorbekDev93/055/db"
 
 	"github.com/gofiber/fiber/v2"
 )
